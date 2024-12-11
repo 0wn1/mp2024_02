@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+  <Vehicles>
+	<Item>
+	  <lockHash>CU_VEH_BANSHEE3</lockHash>
+	  <modelNameHash>banshee3</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>BANSHEE3</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_CARGOBOB5</lockHash>
+	  <modelNameHash>cargobob5</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>CARGOBOB5</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_CHAVOSV6</lockHash>
+	  <modelNameHash>chavosv6</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>CHAVOSV6</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_COQUETTE6</lockHash>
+	  <modelNameHash>coquette6</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>COQUETTE6</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_DRIFTCHEBUREK</lockHash>
+	  <modelNameHash>driftcheburek</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>DRIFTCHEBUREK</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_DRIFTFUTO2</lockHash>
+	  <modelNameHash>driftfuto2</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>DRIFTFUTO2</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_DRIFTJESTER3</lockHash>
+	  <modelNameHash>driftjester3</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>DRIFTJESTER3</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_DUSTER2</lockHash>
+	  <modelNameHash>duster2</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>DUSTER2</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_FIREBOLT</lockHash>
+	  <modelNameHash>firebolt</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>FIREBOLT</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_JESTER5</lockHash>
+	  <modelNameHash>jester5</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>JESTER5</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_POLCARACARA</lockHash>
+	  <modelNameHash>polcaracara</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>POLCARACARA</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_POLCOQUETTE4</lockHash>
+	  <modelNameHash>polcoquette4</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>POLCOQUETTE4</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_POLFACTION2</lockHash>
+	  <modelNameHash>polfaction2</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>POLFACTION2</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_POLTERMINUS</lockHash>
+	  <modelNameHash>polterminus</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>POLTERMINUS</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_TITAN2</lockHash>
+	  <modelNameHash>titan2</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>TITAN2</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_URANUS</lockHash>
+	  <modelNameHash>uranus</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>URANUS</textLabel>
+	  <vehicleMods />
+	</Item>
+  </Vehicles>	
+</ShopVehicleDataArray>

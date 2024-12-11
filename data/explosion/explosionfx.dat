@@ -1,0 +1,17 @@
+4.00
+
+# COLN TYPE: 1-ground plane, 2-ground bound, 3-vehicle up
+
+#			    				PTFX ------------------------------------------------------------------------------------------------------------------------------------------------------------------------>		FIRES ------------------------------------------------------------------------------------->
+#TYPE							FX_NAME						FX_2_NAME				FX_3_NAME					FX_AIR_NAME					FX_AIR_2_NAME			FX_AIR_3_NAME				SCALE	SCORCH		  NUMBER		   RANGE		 BURN TIME		BURN STRENGTH	 PEAK TIME			FUEL
+#			    																																														DECALS		MIN		MAX		MIN		MAX		MIN		MAX		MIN		MAX		MIN		MAX		LEVEL	BURN
+#	
+																																																							RATE																										
+EXPLOSIONFX_TABLE_START		
+
+EXP_VFXTAG_TITAN2_25MM_CANNON	exp_hr_titan2_40_grd		exp_grd_gren_sp			-							exp_hr_titan2_40_air		-						-							0.5		1			0		0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0
+EXP_VFXTAG_TITAN2_40MM_CANNON	exp_hr_titan2_40_grd		exp_grd_gren_sp			-							exp_hr_titan2_40_air		-						-							1.5		1			0		0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0
+EXP_VFXTAG_TITAN2_105MM_CANNON	scr_bomb_cluster			exp_grd_plane_sp		exp_grd_plane_post			exp_air_rpg_plane			exp_air_rpg_plane_sp	-							1.5		1			0		0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0		0.0
+
+
+EXPLOSIONFX_TABLE_END

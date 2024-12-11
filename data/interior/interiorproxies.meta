@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<SInteriorOrderData>
+  <startFrom value="1163" />
+  <filePathHash value="0" />
+  <proxies>
+    <Item>m24_2_int_placement_interior_int_hacker_basement_milo_</Item>
+    <Item>m24_2_int_placement_interior_int_office_gen_milo_</Item>
+    <Item>m24_2_int_placement_interior_int_hacker_garage_milo_</Item>
+  </proxies>
+</SInteriorOrderData>
