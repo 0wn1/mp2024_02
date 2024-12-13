@@ -12,7 +12,7 @@ CreateThread(function()
 		'm24_2_airstrip', -- -2022.6, 1468.6, 267.2
 		'm24_2_cargoship_overlay', -- -304.7, -4040.7, 9.9
 		'm24_2_garment_factory', -- 743.5, -954.5, 26.1
-		--'m24_2_garment_factory_door', -- 718.0, -975.4, 25.4 |  | Used in cutscene
+		--'m24_2_garment_factory_door', -- 718.0, -975.4, 25.4 | Used in cutscene
 		'm24_2_hanger_additions', -- 2145.8, 4779.5, 40.8
 		'm24_2_legacy_fixes', -- 122.0, 13.0, 66.9
 		'm24_2_mfh_finale_ground', -- 669.8, 3046.1, 43.6
