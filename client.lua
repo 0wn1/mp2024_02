@@ -1,4 +1,4 @@
-local Translation = Lang['en'] -- pt, en, es
+local Translation = Lang['en'] -- en, es, pt
 
 CreateThread(function()
 	SetTimeout(5000,function()
@@ -21,6 +21,9 @@ CreateThread(function()
 
 	local Interiors = {
 		{
+			Coord = vector3(750.9, -990.0, -67.7) 
+		},
+		{
 			Coord = vector3(745.7, -993.1, -47.3),
 			Entities = {
 				'SET_CARGO',
@@ -40,7 +43,6 @@ CreateThread(function()
 				'SET_ZANC_SCARAB'
 			}
 		},
-		{ Coord = vector3(750.9, -990.0, -67.7) },
 		{
 			Coord = vector3(2150.0, 4787.0, -47.3),
 			Entities = {
