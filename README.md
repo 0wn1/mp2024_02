@@ -13,23 +13,16 @@ Some of the [GTA Online: Agents of Sabotage DLC](https://youtu.be/YW9VXUgoG6w) a
 - [Coquette D10 Pursuit](https://streamable.com/z4p94c)
 - [Jester RR Widebody](https://streamable.com/h5vomx)
 
-### Ped Models
+### Interiors
 
 <details closed>
-<summary>Ped List</summary>
+<summary>Interiors Coordinates</summary>
 
 ```lua
-local Peds = {
-	'CSB_JodiMarshall',
-	'IG_JodiMarshall',
-	'CSB_HelmsmanPavel_02',
-	'IG_HelmsmanPavel_02',
-	'CSB_Oscar_02',
-	'IG_Oscar_02',
-	'IG_Guadalope',
-	'IG_ArmsManufac_01',
-	'A_F_Y_CarClub_02',
-	'A_M_Y_CarClub_02'
+local Interiors = {
+	vector3(745.7, -993.1, -47.3),
+	vector3(750.9, -990.0, -67.7),
+	vector3(2150.0, 4787.0, -47.3)
 }
 ```
 </details>
@@ -41,7 +34,7 @@ local Peds = {
 
 ```lua
 local Vehicles = {
-    'firebolt', -- Firebolt ASP | Off-road | VAPID
+	'firebolt', -- Firebolt ASP | Off-road | VAPID
 	'coquette6', -- Coquette D5 | Sports | INVERTO
 	'banshee3', -- Banshee GTS | Sports | BRAVADO
 	'titan2', -- Titan 250 D | Planes | EBERHARD
@@ -63,16 +56,23 @@ local Vehicles = {
 ```
 </details>
 
-### Interiors
+### Ped Models
 
 <details closed>
-<summary>Interiors Coordinates</summary>
+<summary>Ped List</summary>
 
 ```lua
-local Interiors = {
-	vector3(745.7, -993.1, -47.3),
-	vector3(750.9, -990.0, -67.7),
-	vector3(2150.0, 4787.0, -47.3)
+local Peds = {
+	'CSB_JodiMarshall',
+	'IG_JodiMarshall',
+	'CSB_HelmsmanPavel_02',
+	'IG_HelmsmanPavel_02',
+	'CSB_Oscar_02',
+	'IG_Oscar_02',
+	'IG_Guadalope',
+	'IG_ArmsManufac_01',
+	'A_F_Y_CarClub_02',
+	'A_M_Y_CarClub_02'
 }
 ```
 </details>
